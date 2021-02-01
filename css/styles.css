@@ -186,12 +186,16 @@ p {
 
 /*  Footer  */
 
-#footer {
+#footer, #footer a {
 
     color: #216869;
 
     margin: auto !important;
 
+}
+
+#footer a:hover {
+    color: #ccc;
 }
 
 #footer p {
@@ -202,4 +206,5 @@ p {
 .social-icon {
     margin: 20px 10px;
 }
+
 
