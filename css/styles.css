@@ -1,0 +1,205 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+.light-bold {
+    line-height: 1.5;
+    font-weight: 900;
+    font-size: 4rem;
+    color: #fff;
+}
+
+.container-fluid.padding {
+    padding: 3% 15% 8%;
+
+}
+
+#title {
+
+    background-color: #1F2421;
+    text-align: left;
+}
+
+.container-fluid {
+    padding: 2% 15%;
+}
+/* NAVBAR */
+
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 2rem !important;
+    font-weight: 700 !important;
+}
+
+.navbar {
+    padding: 0 0 4.5rem 0 !important;
+}
+
+.nav-link {
+    font-size: 1.4rem;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar a:hover {
+    font-size: 1.4rem;
+    color: #ccc;
+}
+
+.navbar-toggler-icon {
+    color: #fff !important;
+}
+
+.navbar-toggler {
+    color: #fff !important;
+}
+
+
+/* Download Buttons */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+/* Title */
+
+.title,
+.btn {
+    color: #1A382A !important;
+}
+
+.title-image {
+    width: 26%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 15%;
+}
+
+
+/* Features */
+
+#features {
+    /*    max-width: 70%;*/
+    padding: 2% 15%;
+    margin: 0 auto;
+
+
+}
+
+.feature {
+    padding: 50px 0;
+
+    color: #9CABA1;
+}
+
+.feature h3 {
+    font-weight: 700;
+    color: #1A382A;
+}
+
+.feature i {
+    font-size: 4rem;
+    color: #216869;
+    padding-bottom: 20px;
+    transition: all .5s ease;
+}
+
+.feature i:hover {
+    color: #1A382A;
+}
+
+/*Testimonial section*/
+
+#testimonials {
+
+
+    background-color: #9CC5A1;
+    color: #fff;
+}
+
+#testimonials h2, #cta h3 {
+    font-weight: 700;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+.carousel-item {
+    padding: 2% 15%;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* Sponzori - Partneri */
+
+#sponzori {
+    padding: 2% 15%;
+
+    background-color: #1A382A;
+}
+
+.sponzor {
+    width: 15%;
+    padding: 0 25px;
+}
+
+/*  Proizvodi  */
+
+#proizvodi {
+    padding: 2% 15%;
+    margin: 0 auto;
+
+}
+
+.proizvod {
+    padding: 3% 2% !important;
+}
+
+#proizvodi h2,
+p {
+
+    padding-bottom: 2%;
+
+}
+
+
+/*  CTA  */
+
+#cta {
+    padding: 2% 15%;
+    background-color: #9CC5A1;
+    color: #fff;
+
+}
+
+
+
+#cta .kontakt {
+    margin: 0 20px;
+}
+
+/*  Footer  */
+
+#footer {
+
+    color: #216869;
+
+    margin: auto !important;
+
+}
+
+#footer p {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+

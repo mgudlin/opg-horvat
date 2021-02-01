@@ -1,0 +1,30 @@
+@media (max-width:1350px) {
+    .title-image {
+    width: 32% !important;
+    right: 15%;
+    top:12%;
+}
+
+    h1.light-bold {
+        font-size: 3rem
+    }
+}
+
+@media (max-width:850px) {
+    .title-image {
+        position: static;
+        transform: rotate(0);
+        width: 100% !important;
+
+    }
+
+    #title {
+        text-align: center;
+    }
+}
+
+@media (max-width:500px) {
+    .title-image {
+        width: 100% !important;
+    }
+}
